@@ -1,0 +1,13 @@
+var restaurantsLists = {
+    "data": [
+        {
+
+        },
+        {
+
+        },
+        {
+
+        }
+    ]
+}

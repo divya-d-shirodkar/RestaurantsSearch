@@ -1,0 +1,54 @@
+[
+    {
+        "image": "assets/images/alBek.jpg",
+        "name": "Oye amristar",
+        "cuisines": ["Punjabi", "North Indian", "Chinese"],
+        "rating": "4",
+        "deliveryTime": "50"
+    
+    },
+    {
+        "image": "assets/images/eatfit.jpg",
+        "name": "Eat Fit",
+        "cuisines": ["Sandwiches", "Burger", "Wraps", "Nachos"],
+        "rating": "3",
+        "deliveryTime": "35"
+    },
+    {
+        "image": "assets/images/empire.jpg",
+        "name": "Nartaki",
+        "cuisines": ["South Indian", "Andhra"],
+        "rating": "4",
+        "deliveryTime": "65"
+    },
+    {
+        "image": "assets/images/alBek.jpg",
+        "name": "Namuru Tindi",
+        "cuisines": ["Fast Food"],
+        "rating": "4",
+        "deliveryTime": "20"
+    
+    },
+    {
+        "image": "assets/images/eatfit.jpg",
+        "name": "Amoeba",
+        "cuisines": ["North Indian", "Continental", "Chinese"],
+        "rating": "5",
+        "deliveryTime": "50"
+    },
+    {
+        "image": "assets/images/empire.jpg",
+        "name": "Navarang",
+        "cuisines": ["South Indian", "Andhra"],
+        "rating": "3",
+        "deliveryTime": "60"
+    },
+    {
+        "image": "assets/images/alBek.jpg",
+        "name": "Namuru Tindi",
+        "cuisines": ["Fast Food"],
+        "rating": "4",
+        "deliveryTime": "20"
+    
+    }
+]
